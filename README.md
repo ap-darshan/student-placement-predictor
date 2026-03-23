@@ -2,6 +2,9 @@
 
 An end-to-end Machine Learning project that predicts student placement outcomes based on academic performance, technical skills, and experience. The project includes data analysis, model building, and deployment using Streamlit.
 
+## 🌐 Live Demo
+
+👉 https://student-placement-predictor-joe2dzcnx55l3mko9cnkyr.streamlit.app
 ---
 
 ## 🚀 Features
