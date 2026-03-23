@@ -37,12 +37,12 @@ An end-to-end Machine Learning project that predicts student placement outcomes 
 ---
 
 ## 📦 Project Structure
-app.py
-model.pkl
-features.pkl
-student_placement_analysis.ipynb
-requirements.txt
-README.md
+# app.py
+# model.pkl
+# features.pkl
+# student_placement_analysis.ipynb
+# requirements.txt
+# README.md
 
 
 ---
